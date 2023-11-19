@@ -133,7 +133,7 @@ const Navbar = () => {
                                 duration={500}
                                 onClick={homeHandler}
                             >
-                                SHOPCART
+                                SURYA-CART
                             </NavLogo>
                         </Typography>
                     </HomeContainer>
@@ -214,7 +214,7 @@ const Navbar = () => {
                             >
                                 <LocalMallIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1 }} />
 
-                                SHOPCART
+                                SURYA-CART
                             </NavLogo>
                         </Typography>
                     </HomeContainer>
